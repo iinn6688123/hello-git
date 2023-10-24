@@ -10,3 +10,4 @@ v1.0.1 紀錄
 Version 1.0.1
 
 first commit
+dev1.2
